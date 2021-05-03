@@ -28,7 +28,7 @@ The features that distinguish Prometheus from other metrics and monitoring syste
 
 ## Architecture overview
 
-![](https://cdn.jsdelivr.net/gh/prometheus/prometheus@c34257d069c630685da35bcef084632ffd5d6209/documentation/images/architecture.svg)
+![Prometheus](https://user-images.githubusercontent.com/42182955/116887903-737b1100-ac48-11eb-846e-53c47c0f1f10.png)
 
 ## Install
 
